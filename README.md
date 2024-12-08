@@ -1,4 +1,4 @@
-git branch -m main <BRANCH>
+e3dbc0a622671249e79cf0a5b9c6402cec383f3dgit branch -m main <BRANCH>
 git fetch origin
 git branch -u origin/<BRANCH> <BRANCH>
 git remote set-head origin -a- 👋 Hi, I’m @ScareCrow2024
