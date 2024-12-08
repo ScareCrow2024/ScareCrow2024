@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @ScareCrow2024
+git branch -m main <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a- 👋 Hi, I’m @ScareCrow2024
 - 👀 I’m interested in money 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
